@@ -249,7 +249,7 @@ on:
           - zk-r39a
           - zysj
       openwrt_kernel:
-        description: "Select kernel version"
+        description: "5.15.y"
         required: false
         default: "6.12.y_6.18.y"
         type: choice
